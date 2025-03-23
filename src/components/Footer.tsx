@@ -47,7 +47,7 @@ const Footer = () => {
                   href="tel:+212010091779"
                   className="text-gray-700 hover:text-reach-purple transition-colors"
                 >
-                  +212 01-091779
+                  212 601-091779
                 </a>
               </div>
               <div className="flex items-center gap-3">
